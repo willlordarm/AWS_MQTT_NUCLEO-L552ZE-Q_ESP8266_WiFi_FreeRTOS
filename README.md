@@ -88,5 +88,5 @@ The Board layer contains the following configured interface drivers:
 **STDIO** routed to Virtual COM port (ST-LINK, baudrate = 115200)
 
 The board configuration can be modified using 
-[STM32CubeMX](https://www.keil.com/stmicroelectronics-stm32) 
+[STM32CubeMX](https://www.keil.com/pack/doc/STM32Cube/html/index.html) 
 and is stored in the file `STCubeGenerated.ioc`.
